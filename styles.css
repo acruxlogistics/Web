@@ -5,6 +5,12 @@ margin:0;
   font-famil:Arial,sans-serif;
 }
 
+header{
+  background: #002b5c;
+  padding:15px;
+  text-align: center;
+}
+ 
 body{
   margin:0;
   font-family:Arial,sans-serif;
@@ -12,10 +18,15 @@ body{
   color:#123
 }
 
-nav{
+.nav{
   background: #002b5c;
-  padding:15px:
-text-align:center;
+  padding:15px;
+  text-align: center;
+  color: white;
+}
+
+.logo{
+ width:140px;
 }
 
 hero{
