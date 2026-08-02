@@ -5,11 +5,6 @@ box-sizing:border-box;
 font-family:Arial,sans-serif;
 }
 
-body{
-backgroung:#f4f7fb; 
-color:#123;
-}
-
 nav{
 background:#002b5c;
 padding:15px;
@@ -20,16 +15,9 @@ text-decoration:none;
 font-weight:bold;
 }
 
-.logo{
+logo{
 width:140px;
 align:center;
-}
-
-hero{
-padding:80px;
-text-align:center;
-background:#0b2d5c;
-color:white;
 }
 
 btn{
